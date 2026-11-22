@@ -3,5 +3,25 @@ body {
     color: #ef9cc4;
     font-family: sans-serif;
     text-align: center;
-    margin-top: auto;
+    margin-top: 50px;
+}
+
+p {
+    color: #e9e0e4;
+}
+
+a {
+    color:#ef9cc4;
+}
+
+figcaption {
+    color:#e9e0e4;
+    font-size: small;
+}
+
+img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
 }
