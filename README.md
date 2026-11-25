@@ -7,6 +7,7 @@ So far we've got:
 - Embedding a link in text, opening in a new tab
 - Embedding a picture with alt and a description
 - Having a Style Sheet with custom colours for paragraphs and headlines as well as links
+
 To Do:
 - include a sorted list
 - include an unsorted list
